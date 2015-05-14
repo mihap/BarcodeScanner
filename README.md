@@ -1,7 +1,7 @@
 BarcodeScanner
 ==============
 
-### Fork with portait oriented barcode scan on Android
+### Fork with portrait oriented barcode scan on Android
 
 Cross-platform BarcodeScanner for Cordova / PhoneGap.
 
